@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="public/assets/profile.png" alt="Anees Ur Rehman" width="150" style="border-radius: 50%;" />
   
   # ✨ Anees Ur Rehman ✨
   
@@ -88,7 +87,7 @@ I specialize in both **frontend and backend technologies**, with expertise in Re
         <h3 align="center">Campus Sports Sphere</h3>
         <div align="center">
           <a href="https://github.com/araneeskhan/CampusSportsSphere" target="_blank">
-            <img src="public/assets/css/cover.png" alt="Campus Sports Sphere" width="100%" />
+          
           </a>
           <p>
             <a href="https://github.com/araneeskhan/CampusSportsSphere" target="_blank">
