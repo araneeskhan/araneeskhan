@@ -1,8 +1,8 @@
 <div align="center">
   
-  # ✨ Anees Ur Rehman ✨
+  # ✨ Anees Ur Rehman's Portfolio ✨
   
-  ### 🚀 Full-Stack Developer | Mobile App Developer 
+  ### 🚀 Full-Stack Developer | Mobile App developer 
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel)](https://araneeskhan.github.io/portfolio/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/araneeskhan)
@@ -23,11 +23,11 @@
 <a id="about"></a>
 ## 👨‍💻 About Me
 
-> *"Building digital experiences that solve real-world problems"*
+> *"Building **digital experiences** that solve **real-world problems**"*
 
-I'm a **passionate Full-Stack Developer** with expertise in building modern web and mobile applications. My journey in software development began with a curiosity about how websites work, which evolved into a deep passion for creating clean, efficient, and user-friendly solutions.
+I'm a **passionate Full-Stack Developer** with expertise in building modern web and mobile applications. My journey in software development began with a curiosity about how websites work, which evolved into a deep passion for creating **clean**, **efficient**, and **user-friendly** solutions.
 
-I specialize in both **frontend and backend technologies**, with expertise in React, React Native, Next.js and various database systems. I'm constantly learning and adapting to new technologies to stay at the forefront of development.
+I specialize in both **frontend and backend technologies**, with expertise in React, Next.js, Node.js, and various database systems. I'm constantly learning and adapting to new technologies to stay at the forefront of development.
 
 ---
 
@@ -84,11 +84,8 @@ I specialize in both **frontend and backend technologies**, with expertise in Re
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Campus Sports Sphere</h3>
+        <h3 align="center">✨ Campus Sports Sphere</h3>
         <div align="center">
-          <a href="https://github.com/araneeskhan/CampusSportsSphere" target="_blank">
-          
-          </a>
           <p>
             <a href="https://github.com/araneeskhan/CampusSportsSphere" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=flat-square&logo=github" alt="GitHub" />
@@ -96,16 +93,22 @@ I specialize in both **frontend and backend technologies**, with expertise in Re
           </p>
           <p><strong>JavaScript, Python, React, React Native, Node.js, Flask, Firebase</strong></p>
           <p>
-            A comprehensive Automated sports management system combining web and mobile technologies to streamline University sports activities.
+            A <strong>comprehensive</strong> Automated sports management system combining web and mobile technologies to streamline University sports activities.
           </p>
+          <details>
+            <summary><strong>Key Features</strong></summary>
+            <ul>
+              <li>Real-time sports event management</li>
+              <li>Mobile app for students and administrators</li>
+              <li>Automated scheduling system</li>
+              <li>Digital scoreboard and statistics</li>
+            </ul>
+          </details>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">QuickBite</h3>
+        <h3 align="center">🍔 QuickBite</h3>
         <div align="center">
-          <a href="https://github.com/araneeskhan/QuickBite" target="_blank">
-            <img src="public/assets/quickbite/cover.png" alt="QuickBite" width="100%" />
-          </a>
           <p>
             <a href="https://github.com/araneeskhan/QuickBite" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=flat-square&logo=github" alt="GitHub" />
@@ -113,18 +116,24 @@ I specialize in both **frontend and backend technologies**, with expertise in Re
           </p>
           <p><strong>React Native, Firebase, Zustand, AsyncStorage</strong></p>
           <p>
-            A modern food delivery platform that lets you Order FastFood, featuring real-time order History Tracking and seamless payment integration.
+            A <strong>modern</strong> food delivery platform that lets you Order FastFood, featuring <strong>real-time</strong> order History Tracking and seamless payment integration.
           </p>
+          <details>
+            <summary><strong>Key Features</strong></summary>
+            <ul>
+              <li>Real-time order tracking system</li>
+              <li>Secure payment integration</li>
+              <li>Restaurant dashboard for ordering Food</li>
+              <li>Customer rating and review system</li>
+            </ul>
+          </details>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">AI Showcase</h3>
+        <h3 align="center">🤖 AI Showcase</h3>
         <div align="center">
-          <a href="https://github.com/araneeskhan/ai-showcase" target="_blank">
-            <img src="public/assets/ai-showcase/cover.png" alt="AI Showcase" width="100%" />
-          </a>
           <p>
             <a href="https://github.com/araneeskhan/ai-showcase" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=flat-square&logo=github" alt="GitHub" />
@@ -132,16 +141,22 @@ I specialize in both **frontend and backend technologies**, with expertise in Re
           </p>
           <p><strong>React.js, Chakra UI, Framer Motion, Node.js, OpenAI API</strong></p>
           <p>
-            A modern, feature-rich AI development platform that combines multiple AI-powered tools to enhance developer productivity.
+            A <strong>feature-rich</strong> AI development platform that combines multiple AI-powered tools to enhance developer productivity.
           </p>
+          <details>
+            <summary><strong>Key Features</strong></summary>
+            <ul>
+              <li>AI-powered code generation</li>
+              <li>Natural language processing tools</li>
+              <li>Interactive UI components</li>
+              <li>API integration examples</li>
+            </ul>
+          </details>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
+        <h3 align="center">💼 Portfolio Website</h3>
         <div align="center">
-          <a href="https://araneeskhan.github.io/portfolio/" target="_blank">
-            <img src="public/assets/portfolio-screenshot.png" alt="Portfolio Website" width="100%" />
-          </a>
           <p>
             <a href="https://araneeskhan.github.io/portfolio/" target="_blank">
               <img src="https://img.shields.io/badge/Live-Visit%20Website-brightgreen?style=flat-square&logo=vercel" alt="Live Site" />
@@ -152,8 +167,17 @@ I specialize in both **frontend and backend technologies**, with expertise in Re
           </p>
           <p><strong>Next.js, TypeScript, Tailwind CSS, AOS</strong></p>
           <p>
-            My personal portfolio website showcasing my projects, skills, and achievements with a clean, responsive design.
+            My <strong>personal portfolio</strong> website showcasing my projects, skills, and achievements with a clean, responsive design.
           </p>
+          <details>
+            <summary><strong>Key Features</strong></summary>
+            <ul>
+              <li>Responsive design for all devices</li>
+              <li>Dark/light mode toggle</li>
+              <li>Smooth scroll animations</li>
+              <li>Project showcase with detailed views</li>
+            </ul>
+          </details>
         </div>
       </td>
     </tr>
@@ -166,19 +190,12 @@ I specialize in both **frontend and backend technologies**, with expertise in Re
 ## 🏆 Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="70%">
-        <h3>🥇 Career Expo 2024</h3>
-        <p>
-          Secured <strong>1st Position</strong> in the Hybrid category at Career Expo 2024 for the project "Campus Sports Sphere" - a comprehensive sports management system that combines web and mobile technologies.
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <img src="public/assets/achievement-1.jpg" alt="Career Expo 2024 Trophy" width="100%" style="border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
+  <div style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; margin-bottom: 20px; border-left: 4px solid #4299e1;">
+    <h3>🥇 Career Expo 2024</h3>
+    <p>
+      Secured <strong>1st Position</strong> in the <em>Hybrid category</em> at Career Expo 2024 for the project <strong>"Campus Sports Sphere"</strong> - a comprehensive sports management system that combines web and mobile technologies.
+    </p>
+  </div>
 </div>
 
 ---
