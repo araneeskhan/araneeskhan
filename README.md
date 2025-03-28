@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ✨ Anees Ur Rehman's Portfolio ✨
+ Hi i'm # Anees Ur Rehman
   
   ### 🚀 Full-Stack Developer | Mobile App developer 
 
