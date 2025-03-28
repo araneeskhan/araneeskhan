@@ -23,11 +23,11 @@
 <a id="about"></a>
 ## 👨‍💻 About Me
 
-> *"Building **digital experiences** that solve **real-world problems**"*
+> *"Building **experiences** that solve **real-world problems**"*
 
 I'm a **passionate Full-Stack Developer** with expertise in building modern web and mobile applications. My journey in software development began with a curiosity about how websites work, which evolved into a deep passion for creating **clean**, **efficient**, and **user-friendly** solutions.
 
-I specialize in both **frontend and backend technologies**, with expertise in React, Next.js, Node.js, and various database systems. I'm constantly learning and adapting to new technologies to stay at the forefront of development.
+I focus on both **frontend and backend technologies**, with expertise in React, Next.js, Node.js, and various database systems. I'm constantly learning and adapting to new technologies to stay at the forefront of development.
 
 ---
 
