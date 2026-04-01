@@ -65,41 +65,29 @@ Scalable cloud architectures & AI integrations
 <tr>
 <td valign="top" width="33%">
 
-### `✦` &nbsp; Frontend
+### `●` &nbsp; Frontend
 
-| Skill | Level |
-|---|---|
-| React / React Native | ██████████ 95% |
-| Next.js | █████████░ 90% |
-| TypeScript | █████████░ 88% |
-| Tailwind CSS | ██████████ 92% |
-| JavaScript | ██████████ 96% |
+`React` &nbsp; `React Native` &nbsp; `Next.js`
+`TypeScript` &nbsp; `JavaScript`
+`Tailwind CSS` &nbsp; `HTML5 / CSS3`
 
 </td>
 <td valign="top" width="33%">
 
-### `⬡` &nbsp; Backend & DB
+### `●` &nbsp; Backend & DB
 
-| Skill | Level |
-|---|---|
-| Node.js | █████████░ 90% |
-| Express.js | █████████░ 88% |
-| MongoDB | ████████░░ 85% |
-| Firebase | ████████░░ 87% |
-| Python | ████████░░ 80% |
+`Node.js` &nbsp; `Express.js` &nbsp; `Python`
+`Flask` &nbsp; `Java`
+`MongoDB` &nbsp; `Firebase` &nbsp; `Supabase` &nbsp; `MySQL`
 
 </td>
 <td valign="top" width="33%">
 
-### `◈` &nbsp; Tools & Cloud
+### `●` &nbsp; Tools & Cloud
 
-| Skill | Level |
-|---|---|
-| Git / GitHub | ██████████ 94% |
-| AWS | ████████░░ 75% |
-| Docker | ███████░░░ 72% |
-| Supabase | ████████░░ 80% |
-| MySQL | ████████░░ 78% |
+`Git` &nbsp; `GitHub`
+`AWS` &nbsp; `Docker`
+`VS Code` &nbsp; `Zustand`
 
 </td>
 </tr>
@@ -115,73 +103,56 @@ Scalable cloud architectures & AI integrations
 <tr>
 <td width="50%" valign="top">
 
-### 🏅 &nbsp; Campus Sports Sphere
-*1st Place — Career Expo 2024*
+<img src="https://img.shields.io/badge/🥇_1st_Place-Career_Expo_2024-f5c842?style=flat-square&labelColor=1a1a2e" />
 
-[![Code](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/CampusSportsSphere)
+### Campus Sports Sphere
 
-> A comprehensive automated sports management platform combining web and mobile to streamline university athletics.
+Automated sports management platform combining web & mobile to streamline university athletics — real-time scheduling, live scoreboards, and a student mobile app.
 
-**Stack:** `React` `React Native` `Node.js` `Flask` `Firebase` `Python`
+**Stack** &nbsp; `React` `React Native` `Node.js` `Flask` `Firebase` `Python`
 
-- 🗓️ Real-time sports event scheduling
-- 📱 Mobile app for students & admins
-- 📊 Digital scoreboard & live statistics
-- ⚙️ Fully automated scheduling engine
+[![Source](https://img.shields.io/badge/⌥_Source-0f0c29?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/CampusSportsSphere)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍔 &nbsp; QuickBite
-*Food Delivery Platform*
+<img src="https://img.shields.io/badge/Mobile_App-React_Native-61DAFB?style=flat-square&labelColor=1a1a2e&logo=react&logoColor=61DAFB" />
 
-[![Code](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/QuickBite)
+### QuickBite
 
-> A modern food ordering app with live order tracking and seamless payment flows.
+Modern food delivery platform with real-time order tracking, secure payments, a restaurant dashboard, and a customer rating system — all in a polished mobile experience.
 
-**Stack:** `React Native` `Firebase` `Zustand` `AsyncStorage`
+**Stack** &nbsp; `React Native` `Firebase` `Zustand` `AsyncStorage`
 
-- 📍 Real-time order tracking
-- 💳 Secure payment integration
-- 🍽️ Restaurant dashboard
-- ⭐ Rating & review system
+[![Source](https://img.shields.io/badge/⌥_Source-0f0c29?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/QuickBite)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp; AI Showcase
-*Developer Productivity Platform*
+<img src="https://img.shields.io/badge/AI_%2F_Web-OpenAI_Powered-10a37f?style=flat-square&labelColor=1a1a2e" />
 
-[![Code](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/ai-showcase)
+### AI Showcase
 
-> A feature-rich AI development hub combining multiple tools to boost developer productivity.
+Developer productivity hub combining AI-powered code generation, NLP tools, and interactive UI components — powered by the OpenAI API with smooth Framer Motion animations.
 
-**Stack:** `React.js` `Chakra UI` `Framer Motion` `Node.js` `OpenAI API`
+**Stack** &nbsp; `React.js` `Chakra UI` `Framer Motion` `Node.js` `OpenAI API`
 
-- 🧠 AI-powered code generation
-- 🔤 NLP tools & integrations
-- 🧩 Interactive UI component library
-- 📡 API integration examples
+[![Source](https://img.shields.io/badge/⌥_Source-0f0c29?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/ai-showcase)
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 &nbsp; Portfolio Website
-*Personal Brand*
+<img src="https://img.shields.io/badge/Live-Portfolio_Website-a78bfa?style=flat-square&labelColor=1a1a2e" />
 
-[![Live](https://img.shields.io/badge/Live_Demo-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://araneeskhan.github.io/portfolio/)
-[![Code](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/portfolio)
+### Portfolio Website
 
-> My personal portfolio with smooth animations, dark/light mode, and detailed project views.
+Personal portfolio built with Next.js and TypeScript — smooth AOS scroll animations, dark/light mode toggle, and a fully responsive layout across all devices.
 
-**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `AOS`
+**Stack** &nbsp; `Next.js` `TypeScript` `Tailwind CSS` `AOS`
 
-- 📱 Fully responsive across devices
-- 🌗 Dark/light mode toggle
-- ✨ Smooth scroll animations
-- 🗂️ Detailed project showcase
+[![Live](https://img.shields.io/badge/↗_Live_Demo-0f0c29?style=flat-square&logo=vercel&logoColor=a78bfa)](https://araneeskhan.github.io/portfolio/) &nbsp; [![Source](https://img.shields.io/badge/⌥_Source-0f0c29?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/portfolio)
 
 </td>
 </tr>
