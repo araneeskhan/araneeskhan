@@ -39,38 +39,40 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; Who Am I?
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:1a0533,100:302b63&height=3" width="100%"/>
 
-<table>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="20">
 <tr>
-<td width="55%">
+<td width="50%" align="center" valign="middle">
 
-```typescript
-const anees: Developer = {
-  name: "Anees Ur Rehman",
-  role: ["Full-Stack Dev", "Mobile Engineer"],
-  languages: ["TypeScript", "JS", "Python", "Java"],
-  stack: {
-    frontend: ["React", "Next.js", "Tailwind"],
-    mobile:   ["React Native", "Expo"],
-    backend:  ["Node.js", "Express", "Flask"],
-    database: ["MongoDB", "Firebase", "Supabase"],
-    devops:   ["Docker", "AWS", "Vercel"],
-  },
-  currentFocus: "Scalable Cloud Arch & AI",
-  achievement: "🏆 1st Place — Career Expo 2024",
-  funFact: "I debug with console.log, no shame 😄",
-};
-```
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
 
 </td>
-<td width="45%" align="center">
+<td width="50%" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=araneeskhan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:1a0533&height=44&text=%F0%9F%93%8D+Based+in+Pakistan&fontSize=16&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:302b63&height=44&text=%F0%9F%8E%AF+Full-Stack+%26+Mobile+Engineer&fontSize=16&fontColor=e9d5ff&animation=fadeIn" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1e1b4b&height=44&text=%F0%9F%94%AD+Learning+Cloud+Arch+%26+AI&fontSize=16&fontColor=818cf8&animation=fadeIn" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a00,100:2a2000&height=44&text=%F0%9F%8F%86+1st+Place+%E2%80%94+Career+Expo+2024&fontSize=16&fontColor=fbbf24&animation=fadeIn" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0020,100:2d001a&height=44&text=%F0%9F%92%AC+Ask+Me+About+Full-Stack+%7C+Anime&fontSize=16&fontColor=f9a8d4&animation=fadeIn" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001a10,100:002a1a&height=44&text=%E2%9A%A1+I+debug+with+console.log+%E2%80%94+no+shame&fontSize=15&fontColor=6ee7b7&animation=fadeIn" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:1a0533,100:0f0c29&height=3" width="100%"/>
 
 ---
 
@@ -78,7 +80,7 @@ const anees: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=araneeskhan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=araneeskhan&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
 
 </div>
 
@@ -104,101 +106,121 @@ const anees: Developer = {
 ## 🚀 &nbsp; Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🏅 Campus Sports Sphere
-![1st Place](https://img.shields.io/badge/🥇_1st_Place-Career_Expo_2024-f5c842?style=flat-square&labelColor=1a1a2e)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:1a0533&height=72&text=%F0%9F%8F…%20Campus+Sports+Sphere&fontSize=20&fontColor=c4b5fd&desc=Web+%2B+Mobile+%2B+Real-Time&descSize=13&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-> Automated sports management platform combining web & mobile to streamline university athletics with real-time scheduling and live scoreboards.
+![Award](https://img.shields.io/badge/🥇_1st_Place-Career_Expo_2024-f5c842?style=flat-square&labelColor=1a1a2e)
+![Category](https://img.shields.io/badge/Hybrid-Web_%26_Mobile-a78bfa?style=flat-square&labelColor=1a1a2e)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+Automated sports management platform combining web & mobile to streamline university athletics with **real-time scheduling** and **live scoreboards**.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![RN](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-[![View Source](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/CampusSportsSphere)
+[![View Source](https://img.shields.io/badge/⬡_View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/CampusSportsSphere)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=5" width="100%"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🍔 QuickBite
-![Mobile](https://img.shields.io/badge/📱_Mobile-React_Native-61DAFB?style=flat-square&labelColor=1a1a2e)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3d0000,100:1a0533&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0000,100:1a0533&height=72&text=%F0%9F%8D%94+QuickBite&fontSize=20&fontColor=fca5a5&desc=Order+%E2%80%A2+Track+%E2%80%A2+Deliver&descSize=13&descColor=ff6b6b&animation=fadeIn" width="100%"/>
 
-> Modern food delivery platform with real-time order tracking, secure payments, restaurant dashboard, and ratings system.
+![Platform](https://img.shields.io/badge/📱_Mobile_App-React_Native-61DAFB?style=flat-square&labelColor=1a1a2e)
+![Type](https://img.shields.io/badge/Food_Delivery-Real--time-ff6b6b?style=flat-square&labelColor=1a1a2e)
+
+Modern food delivery with **real-time order tracking**, secure payments, restaurant dashboard, and a full ratings system.
 
 ![RN](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Zustand](https://img.shields.io/badge/Zustand-1a1a1a?style=flat-square&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1a1a1a?style=flat-square&logo=expo&logoColor=white)
 
-[![View Source](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/QuickBite)
+[![View Source](https://img.shields.io/badge/⬡_View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/QuickBite)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:3d0000&height=5" width="100%"/>
 
 </td>
 </tr>
+
+<tr><td colspan="2" height="16"></td></tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🤖 AI Showcase
-![AI](https://img.shields.io/badge/🧠_AI_Powered-OpenAI_API-10a37f?style=flat-square&labelColor=1a1a2e)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10a37f,100:004d3a&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2a20,100:001a10&height=72&text=%F0%9F%A4%96+AI+Showcase&fontSize=20&fontColor=6ee7b7&desc=Code+%E2%80%A2+Generate+%E2%80%A2+Analyze&descSize=13&descColor=34d399&animation=fadeIn" width="100%"/>
 
-> Developer productivity hub with AI-powered code generation, NLP tools, resume analyzer, and smooth Framer Motion animations.
+![Type](https://img.shields.io/badge/🧠_AI_Powered-OpenAI_API-10a37f?style=flat-square&labelColor=1a1a2e)
+![Stack](https://img.shields.io/badge/Productivity-Dev_Tools-6ee7b7?style=flat-square&labelColor=1a1a2e)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Chakra](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+Developer productivity hub with **AI code generation**, NLP tools, resume analyzer, and Framer Motion animations.
 
-[![View Source](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/AiShowCase)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Chakra](https://img.shields.io/badge/Chakra_UI-1a1a1a?style=flat-square&logo=chakraui&logoColor=319795)
+![Node](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=flat-square&logo=openai&logoColor=white)
+
+[![View Source](https://img.shields.io/badge/⬡_View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/AiShowCase)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004d3a,100:10a37f&height=5" width="100%"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🛒 E-Store
-![E-Commerce](https://img.shields.io/badge/🛍️_E--Commerce-AI_Powered-ff6b6b?style=flat-square&labelColor=1a1a2e)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38B2AC,100:1a0533&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2030,100:0f1f35&height=72&text=%F0%9F%8F%A6+Bankee&fontSize=20&fontColor=93c5fd&desc=Send+%E2%80%A2+Receive+%E2%80%A2+Manage&descSize=13&descColor=60a5fa&animation=fadeIn" width="100%"/>
 
-> AI-powered e-commerce platform with personalized recommendations, product filtering, admin dashboard, and seamless checkout.
+![Type](https://img.shields.io/badge/💳_Fintech-Mobile_Banking-38B2AC?style=flat-square&labelColor=1a1a2e)
+![Stack](https://img.shields.io/badge/P2P-Wallet_%26_Auth-a78bfa?style=flat-square&labelColor=1a1a2e)
 
-![Next](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+Feature-rich mobile banking with **secure auth**, wallet management, P2P transfers, and real-time notifications.
 
-[![View Source](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/Store)
+![RN](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1a1a1a?style=flat-square&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+[![View Source](https://img.shields.io/badge/⬡_View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/Bankee)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:38B2AC&height=5" width="100%"/>
 
 </td>
 </tr>
+
+<tr><td colspan="2" height="16"></td></tr>
+
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
-### 🏦 Bankee
-![Fintech](https://img.shields.io/badge/💳_Fintech-Mobile_Banking-38B2AC?style=flat-square&labelColor=1a1a2e)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=5" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:1e0a3c&height=72&text=%F0%9F%8C%90+Portfolio+Website&fontSize=20&fontColor=e9d5ff&desc=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+%E2%80%A2+Vercel&descSize=13&descColor=c4b5fd&animation=fadeIn" width="80%"/>
 
-> Feature-rich mobile banking app with secure auth, wallet management, P2P transfers, transaction history, and real-time notifications.
+![Live](https://img.shields.io/badge/✅_LIVE-araneeskhan.vercel.app-a78bfa?style=for-the-badge&labelColor=0f0c29)
 
-![RN](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+Personal portfolio with smooth AOS animations, dark/light mode, and fully responsive layout — the site you're probably browsing right now.
 
-[![View Source](https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/Bankee)
+![Next](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=007ACC)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+[![Live Demo](https://img.shields.io/badge/⬡_Live_Demo-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://araneeskhan.vercel.app)&nbsp;&nbsp;[![Source](https://img.shields.io/badge/⬡_Source_Code-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/portfolio)
 
-### 🌐 Portfolio Website
-![Live](https://img.shields.io/badge/✅_Live-araneeskhan.vercel.app-a78bfa?style=flat-square&labelColor=1a1a2e)
-
-> Personal portfolio built with Next.js and TypeScript featuring smooth scroll animations, dark/light mode, and fully responsive layout.
-
-![Next](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://araneeskhan.vercel.app)&nbsp;[![Source](https://img.shields.io/badge/Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/araneeskhan/portfolio)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=5" width="80%"/>
 
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -219,21 +241,23 @@ const anees: Developer = {
 
 ---
 
-## 🏆 &nbsp; Achievement
+## ✨ &nbsp; Achievement
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1200,30:2a1f00,60:3d2e00,100:1a1200&height=180&text=%F0%9F%8F%86%201ST%20PLACE%20%E2%80%94%20CAREER%20EXPO%202024&fontSize=32&fontColor=fbbf24&fontAlignY=38&desc=Hybrid%20Category%20Winner%20%E2%80%A2%20Campus%20Sports%20Sphere&descSize=17&descAlignY=62&descColor=fde68a&stroke=f5c842&strokeWidth=1.5&animation=fadeIn" width="90%" />
+
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║          🥇  1ST PLACE — CAREER EXPO 2024  🥇               ║
-║                                                              ║
-║   Hybrid Category Winner                                     ║
-║   Project: Campus Sports Sphere                              ║
-║   Full-stack sports management system combining web          ║
-║   & mobile to automate university sports operations.         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/🥇_AWARDED-1st_Place-f5c842?style=for-the-badge&labelColor=1a1200&color=92400e" />
+&nbsp;
+<img src="https://img.shields.io/badge/📅_Year-2024-fbbf24?style=for-the-badge&labelColor=1a1200" />
+&nbsp;
+<img src="https://img.shields.io/badge/🔖_Category-Hybrid_Web_%26_Mobile-fde68a?style=for-the-badge&labelColor=1a1200" />
+
+<br/><br/>
+
+*Full-stack sports management system combining web & mobile to automate university sports operations.*
 
 </div>
 
