@@ -56,7 +56,7 @@
 
 &nbsp;&nbsp;📍 &nbsp;**Location**
 <br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pakistan-Based-a78bfa?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Paris-Based-a78bfa?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29" />
 
 <br/><br/>
 
