@@ -141,7 +141,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/1st_Place-Career_Expo_2024-f5c842?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏆_1st_Place-Career_Expo_2024-f5c842?style=flat-square&labelColor=1a1a2e" />
   &nbsp;
   <img src="https://img.shields.io/badge/Hybrid-Web_%26_Mobile-a78bfa?style=flat-square&labelColor=1a1a2e" />
 </p>
@@ -176,7 +176,7 @@
   <img src="https://img.shields.io/badge/Food_Delivery-Real--time-ff6b6b?style=flat-square&labelColor=1a1a2e" />
 </p>
 
-<p align="center">Modern food delivery with <strong>real-time order tracking</strong>, secure payments, restaurant dashboard, and a full ratings system.</p>
+<p align="center">Modern food delivery with <strong>real-time order tracking</strong>, secure payments, a restaurant dashboard, and a full ratings &amp; reviews system.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -210,7 +210,7 @@
   <img src="https://img.shields.io/badge/Productivity-Dev_Tools-6ee7b7?style=flat-square&labelColor=1a1a2e" />
 </p>
 
-<p align="center">Developer productivity hub with <strong>AI code generation</strong>, NLP tools, resume analyzer, and Framer Motion animations.</p>
+<p align="center">Developer productivity hub with <strong>AI code generation</strong>, NLP tools, resume analyzer, and smooth Framer Motion animations.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -239,7 +239,7 @@
   <img src="https://img.shields.io/badge/P2P-Wallet_%26_Auth-a78bfa?style=flat-square&labelColor=1a1a2e" />
 </p>
 
-<p align="center">Feature-rich mobile banking with <strong>secure auth</strong>, wallet management, P2P transfers, and real-time notifications.</p>
+<p align="center">Feature-rich mobile banking with <strong>secure auth</strong>, wallet management, P2P transfers, bill payments, QR pay, and real-time notifications.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -252,6 +252,68 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:38B2AC&height=5" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2" height="12"></td></tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:7c2d12&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a1a00,100:1a0a00&height=72&text=Hotel+Management+System&fontSize=18&fontColor=fcd34d&desc=Rooms+%E2%80%A2+Bookings+%E2%80%A2+Orders&descSize=13&descColor=fbbf24&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desktop_App-Java-f59e0b?style=flat-square&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hospitality-Management-fbbf24?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+<p align="center">Java-powered hotel management system with <strong>integrated food ordering</strong>, room occupancy tracking, booking management, and streamlined guest services.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=f59e0b" />
+  <img src="https://img.shields.io/badge/Swing_UI-1a1a1a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-1a1a1a?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/araneeskhan/HotelManagmentSystem"><img src="https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,100:f59e0b&height=5" width="100%"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,100:4c1d95&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a0a20,100:1a0533&height=72&text=Store&fontSize=20&fontColor=f9a8d4&desc=Browse+%E2%80%A2+Cart+%E2%80%A2+Checkout&descSize=13&descColor=ec4899&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/E--Commerce-Next.js-ec4899?style=flat-square&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SSR-Optimized-f9a8d4?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+<p align="center">Modern <strong>e-commerce storefront</strong> built with Next.js — server-side rendering, dynamic product pages, cart management, and a clean responsive shopping experience.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=1572B6" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/araneeskhan/Store"><img src="https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:ec4899&height=5" width="100%"/>
 
 </td>
 </tr>
@@ -286,6 +348,12 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+<a href="https://github.com/araneeskhan?tab=repositories">
+  <img src="https://img.shields.io/badge/→_Explore_All_Repositories-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a0533" />
+</a>
 
 </div>
 
