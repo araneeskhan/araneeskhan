@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a0533,60:302b63,100:24243e&height=280&section=header&text=Anees%20Ur%20Rehman&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=60&descColor=c4b5fd&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a0533,60:302b63,100:24243e&height=280&section=header&text=Anees%20Ur%20Rehman&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20AI%20Practitioner&descSize=20&descAlignY=60&descColor=c4b5fd&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%E2%9A%A1+Building+fast%2C+clean+%26+meaningful+products;%F0%9F%94%A5+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+React+Native;%F0%9F%8C%90+TypeScript+%E2%80%A2+Python+%E2%80%A2+Cloud+%E2%80%A2+AI;%F0%9F%8F%86+1st+Place+%E2%80%94+Career+Expo+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=%E2%9A%A1+Building+high-performance+web%2C+mobile+%26+AI+products;%F0%9F%A7%A0+Master+of+AI+Student+at+Cnam+Paris;%F0%9F%94%A5+React+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+Node.js+%E2%80%A2+Python;%F0%9F%8F%86+1st+Place+Winner+%E2%80%94+Career+Expo+2024)](https://git.io/typing-svg)
 
 </div>
 
@@ -56,23 +56,23 @@
 
 &nbsp;&nbsp;📍 &nbsp;**Location**
 <br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Paris-Based-a78bfa?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Paris%2C_France-Based-a78bfa?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29" />
 
 <br/><br/>
 
-&nbsp;&nbsp;🎯 &nbsp;**Role**
+&nbsp;&nbsp;🎯 &nbsp;**Role & Focus**
 <br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Full--Stack_%26_Mobile-Engineer-c4b5fd?style=for-the-badge&logo=code&logoColor=white&labelColor=1a0533" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Full--Stack%2C_Mobile_%26_AI-Engineer-c4b5fd?style=for-the-badge&logo=code&logoColor=white&labelColor=1a0533" />
 
 <br/><br/>
 
-&nbsp;&nbsp;🔭 &nbsp;**Currently Learning**
+&nbsp;&nbsp;🎓 &nbsp;**Education**
 <br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Cloud_Architecture-%26_AI-818cf8?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e1b4b" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Master_of_AI-Cnam_Paris-818cf8?style=for-the-badge&logo=education&logoColor=white&labelColor=1e1b4b" />
 
 <br/><br/>
 
-&nbsp;&nbsp;🏆 &nbsp;**Achievement**
+&nbsp;&nbsp;🏆 &nbsp;**Top Award**
 <br/>
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/1st_Place-Career_Expo_2024-fbbf24?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1a1200" />
 
@@ -80,7 +80,7 @@
 
 &nbsp;&nbsp;💬 &nbsp;**Ask Me About**
 <br/>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Full--Stack_%7C_Mobile-or_Anime_recs-f9a8d4?style=for-the-badge&logo=chatbot&logoColor=white&labelColor=1a0020" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js%2C_React_Native%2C_or_ML_Pipelines-f9a8d4?style=for-the-badge&logo=chatbot&logoColor=white&labelColor=1a0020" />
 
 <br/><br/>
 
@@ -98,13 +98,15 @@
 
 ---
 
-## 📊 &nbsp; GitHub At a Glance
+## 📜 &nbsp; Validated Certifications (Kaggle)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=araneeskhan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true&include_all_commits=true" height="175" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araneeskhan&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&langs_count=8" height="175" />
+| Certificate | Issuer | Core Competencies | Status |
+| :--- | :---: | :--- | :---: |
+| **Intermediate Machine Learning** | Kaggle | Scikit-Learn • XGBoost • Pipelines • Imputation • Encoding • K-Fold CV | [![](https://img.shields.io/badge/Verified-Credential-10b981?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/araneeskhan/intermediate-machine-learning) |
+| **Intro to Machine Learning** | Kaggle | Decision Trees • Random Forests • MAE Optimization • Model Fitting | [![](https://img.shields.io/badge/Verified-Credential-10b981?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/araneeskhan/intro-to-machine-learning) |
+| **Python** | Kaggle | Syntax • Data Structures • List Comprehensions • Runtime Debugging | [![](https://img.shields.io/badge/Verified-Credential-10b981?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/araneeskhan/python) |
 
 </div>
 
@@ -117,11 +119,11 @@
 ### 🖥️ Frontend & Mobile
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,reactnative,expo&theme=dark&perline=9" />
 
-### 🛠️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,mongodb,firebase,mysql,supabase&theme=dark&perline=9" />
+### 🛠️ Backend, Cloud & ML
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,java,postgres,mongodb,mysql,supabase,firebase,prisma,docker&theme=dark&perline=12" />
 
-### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode,figma,postman,linux&theme=dark&perline=9" />
+### 🧰 DevOps & Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma,postman,linux&theme=dark&perline=8" />
 
 </div>
 
@@ -133,6 +135,37 @@
 
 <table>
 <tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:064e3b&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,100:064e3b&height=72&text=RecoverCare&fontSize=20&fontColor=6ee7b7&desc=Mobile+%2B+API+%2B+Clinical+Alerts&descSize=13&descColor=34d399&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HealthTech-Post--Surgery-10b981?style=flat-square&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Severity_Engine-4_Tiers-34d399?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+<p align="center">Hospital post-surgery recovery mobile app featuring daily check-ins, medication tracker, care-team chat, and an automated <strong>4-tier symptom alert engine</strong>.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1a1a1a?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-1a1a1a?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/araneeskhan/recover-care"><img src="https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:064e3b,100:10b981&height=5" width="100%"/>
+
+</td>
 <td width="50%" valign="top" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=5" width="100%"/>
@@ -161,6 +194,41 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=5" width="100%"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2" height="12"></td></tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:312e81&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:312e81&height=72&text=DocuForge&fontSize=20&fontColor=a5b4fc&desc=Offline+%E2%80%A2+API-Free+%E2%80%A2+DOCX%2FPDF&descSize=13&descColor=818cf8&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Privacy--First-API--Free_Engine-6366f1?style=flat-square&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Exports-DOCX_%26_PDF-818cf8?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+<p align="center">Local document formatting & typography engine standardizing raw text and messy Word files into publication-ready <strong>DOCX and PDF outputs</strong> via deterministic Python rules.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/spaCy-1a1a1a?style=flat-square&logo=spacy&logoColor=09A3D5" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/araneeskhan/docuforge"><img src="https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312e81,100:6366f1&height=5" width="100%"/>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -259,76 +327,14 @@
 <tr><td colspan="2" height="12"></td></tr>
 
 <tr>
-<td width="50%" valign="top" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:7c2d12&height=5" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a1a00,100:1a0a00&height=72&text=Hotel+Management+System&fontSize=18&fontColor=fcd34d&desc=Rooms+%E2%80%A2+Bookings+%E2%80%A2+Orders&descSize=13&descColor=fbbf24&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Desktop_App-Java-f59e0b?style=flat-square&labelColor=1a1a2e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hospitality-Management-fbbf24?style=flat-square&labelColor=1a1a2e" />
-</p>
-
-<p align="center">Java-powered hotel management system with <strong>integrated food ordering</strong>, room occupancy tracking, booking management, and streamlined guest services.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=f59e0b" />
-  <img src="https://img.shields.io/badge/Swing_UI-1a1a1a?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-1a1a1a?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/araneeskhan/HotelManagmentSystem"><img src="https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,100:f59e0b&height=5" width="100%"/>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,100:4c1d95&height=5" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a0a20,100:1a0533&height=72&text=Store&fontSize=20&fontColor=f9a8d4&desc=Browse+%E2%80%A2+Cart+%E2%80%A2+Checkout&descSize=13&descColor=ec4899&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/E--Commerce-Next.js-ec4899?style=flat-square&labelColor=1a1a2e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SSR-Optimized-f9a8d4?style=flat-square&labelColor=1a1a2e" />
-</p>
-
-<p align="center">Modern <strong>e-commerce storefront</strong> built with Next.js — server-side rendering, dynamic product pages, cart management, and a clean responsive shopping experience.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=1572B6" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/araneeskhan/Store"><img src="https://img.shields.io/badge/View_Source-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:ec4899&height=5" width="100%"/>
-
-</td>
-</tr>
-
-<tr><td colspan="2" height="12"></td></tr>
-
-<tr>
 <td colspan="2" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=5" width="80%"/>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:1e0a3c&height=72&text=Portfolio+Website&fontSize=20&fontColor=e9d5ff&desc=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+%E2%80%A2+Vercel&descSize=13&descColor=c4b5fd&animation=fadeIn" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:1e0a3c&height=72&text=Portfolio+Website&fontSize=20&fontColor=e9d5ff&desc=Next.js+15+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+%E2%80%A2+Motion&descSize=13&descColor=c4b5fd&animation=fadeIn" width="80%"/>
 
 <p align="center"><img src="https://img.shields.io/badge/LIVE-araneeskhan.vercel.app-a78bfa?style=for-the-badge&labelColor=0f0c29" /></p>
 
-<p align="center">Personal portfolio with smooth AOS animations, dark/light mode, and fully responsive layout — the site you're probably browsing right now.</p>
+<p align="center">Personal engineering portfolio with interactive service labs, bento cards, dark/light mode, and smooth motion physics.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -359,23 +365,27 @@
 
 ---
 
-## 📊 &nbsp; GitHub Analytics
+## 📊 &nbsp; GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araneeskhan&layout=donut&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&langs_count=8" height="200" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=araneeskhan&hide_border=true&background=0d1117&stroke=a78bfa33&ring=a78bfa&fire=ff6b6b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=araneeskhan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true&include_all_commits=true" height="175" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araneeskhan&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&langs_count=8" height="175" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=araneeskhan&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=ff6b6b&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=araneeskhan&hide_border=true&background=0d1117&stroke=a78bfa33&ring=a78bfa&fire=ff6b6b&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=araneeskhan&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=ff6b6b&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
 ---
 
-## ✨ &nbsp; Achievement
+## 🏆 &nbsp; Award Highlight
 
 <div align="center">
 
@@ -389,19 +399,15 @@
 &nbsp;
 <img src="https://img.shields.io/badge/🔖_Category-Hybrid_Web_%26_Mobile-fde68a?style=for-the-badge&labelColor=1a1200" />
 
-<br/><br/>
-
-*Full-stack sports management system combining web & mobile to automate university sports operations.*
-
 </div>
 
 ---
 
-## 🤝 &nbsp; Let's Build Something Together
+## 🤝 &nbsp; Let's Connect & Collaborate
 
 <div align="center">
 
-*Always down for interesting conversations, collabs, or just vibing about tech.*
+*Always open to discussing software engineering, AI/ML pipelines, mobile apps, or potential project collaborations.*
 
 <br/>
 
